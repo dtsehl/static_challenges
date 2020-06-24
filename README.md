@@ -1,18 +1,7 @@
 # Static Comp Challenges
 
-This repository includes an `index.html` file that links to two CSS files:
+I attempted the first challenge (challenge1.png) and timeboxed my work to two hours. I did not get very far and felt my time was better spent continuing down the intermission work for SQL/Rails.
 
-* `reset.css`: includes styles that will override most default styles provided by your browser.
-* `main.css`: empty file provided as a place to store styles that you define.
+Much of my time spent on this project was dedicated to looking up how CSS interacts with HTML and checking the output to make sure I was on the right path.
 
-Beyond high level structure for an HTML page and the links to these two stylesheets, the `index.html` file is empty.
-
-The expectation is for you to choose **one** of the images included in the `completed` directory ([1](completed/challenge1.png), [2](completed/challenge2.png), and [3](completed/challenge3.png)), and do your best to create a file that mimics the styled pages that they show.
-
-The [site_copy.md](site_copy.md) file provides the language that you need, and the `images` directory provides images used in each of the comps.
-
-In order to complete these challenges, fork and clone this repository, then add HTML to the `index.html` file, and CSS to the `stylesheets/main.css` file.
-
-Feel free to organize the HTML however you would like, and create whatever styles you would like. The main goal is for you to get some practice styling a site using HTML and CSS.
-
-If you would like additional practice, feel free to attempt either or both of the remaining challenges.
+I also did not practice great version control as I did not realize at the time of doing the work that this would be submitted as a deliverable.
